@@ -1,2 +1,2 @@
-# SpaceSuikaProject
- 우주 수박 게임 프로젝트
+# SuikaProject
+ 우주 수박 게임
